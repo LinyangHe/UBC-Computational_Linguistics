@@ -1,0 +1,10 @@
+test,foundation,tall,flat,long,narrow,living,groups,plant,zuo,zhang,tiao,qun,ke
+sheep,0,0,0,0,0,1,1,0,0,0,0,1,0
+skyscraper,1,1,0,0,0,0,0,0,1,0,0,0,0
+currency,0,0,1,0,0,0,0,0,0,1,0,0,0
+tiger,0,0,0,0,0,1,1,0,0,0,0,1,0
+island,1,0,0,0,0,0,0,0,1,0,0,0,0
+bridge,1,1,0,1,0,0,0,0,1,0,0,0,0
+river,0,0,0,1,1,0,0,0,0,0,1,0,0
+poplar,0,1,0,0,0,1,0,1,0,0,0,0,1
+fish,0,0,0,0,0,1,1,0,0,0,0,1,0

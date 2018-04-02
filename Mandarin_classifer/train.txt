@@ -1,0 +1,19 @@
+﻿object	foundation	tall	flat	long	narrow	living	groups	plant	座	張	條	群	棵
+mountain	1	1	0	0	0	0	0	0	1	0	0	0	0
+butterfly	0	0	0	0	0	1	1	0	0	0	0	1	0		
+paper	0	0	1	0	0	0	0	0	0	1	0	0	0
+dragon	0	0	0	1	1	1	0	0	0	0	1	0	0
+maple tree	0	0	0	0	0	0	0	1	0	0	0	0	1
+tower	1	1	0	0	0	0	0	0	1	0	0	0	0
+fish	0	0	0	0	0	1	1	0	0	0	0	1	0
+fish	0	0	0	1	1	1	0	0	0	0	1	0	0
+high-rise	1	1	0	0	0	0	0	0	1	0	0	0	0
+temple	1	1	0	0	0	0	0	0	1	0	0	0	0
+rope	0	0	0	1	1	0	0	0	0	0	1	0	0
+table	0	0	1	0	0	0	0	0	0	1	0	0	0
+pine tree	0	0	0	0	0	0	0	1	0	0	0	0	1
+rose	0	0	0	0	0	0	0	1	0	0	0	0	1
+sparrow	0	0	0	0	0	1	1	0	0	0	0	1	0
+lions	0	0	0	0	0	1	1	0	0	0	0	1	0
+snake	0	0	0	1	1	1	0	0	0	0	1	0	0	
+river	0	0	0	1	1	1	0	0	0	0	1	0	0
