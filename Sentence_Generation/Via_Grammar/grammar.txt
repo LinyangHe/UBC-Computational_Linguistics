@@ -1,0 +1,8 @@
+S->NP VP
+NP->D ADJP N
+D->the a
+ADJP->A (ADJP)
+A->big tall red green
+N->cat tree parrot vikiing 
+VP->V
+V->jumps eats sings throws
